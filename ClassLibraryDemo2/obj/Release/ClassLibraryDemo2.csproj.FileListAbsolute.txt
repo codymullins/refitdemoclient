@@ -1,0 +1,5 @@
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\bin\Release\ClassLibraryDemo2.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\bin\Release\ClassLibraryDemo2.pdb
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Release\ClassLibraryDemo2.csproj.CoreCompileInputs.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Release\ClassLibraryDemo2.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Release\ClassLibraryDemo2.pdb

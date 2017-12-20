@@ -1,0 +1,6 @@
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\bin\Debug\ClassLibraryDemo2.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\bin\Debug\ClassLibraryDemo2.pdb
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Debug\ClassLibraryDemo2.csprojResolveAssemblyReference.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Debug\ClassLibraryDemo2.csproj.CoreCompileInputs.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Debug\ClassLibraryDemo2.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo2\obj\Debug\ClassLibraryDemo2.pdb
