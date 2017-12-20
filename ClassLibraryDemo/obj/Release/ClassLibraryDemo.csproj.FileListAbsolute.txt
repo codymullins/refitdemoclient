@@ -1,0 +1,1 @@
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\obj\Release\ClassLibraryDemo.csproj.CoreCompileInputs.cache

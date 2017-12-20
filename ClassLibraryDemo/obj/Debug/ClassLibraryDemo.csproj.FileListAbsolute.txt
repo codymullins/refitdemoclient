@@ -1,0 +1,10 @@
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.pdb
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\Refit.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\bin\Debug\Refit.xml
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csprojResolveAssemblyReference.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.dll
+C:\Users\jmullins\Source\repos\RefitDemoClient\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.pdb

@@ -1,0 +1,2 @@
+C:\Users\jmullins\Source\repos\RefitDemoClient\obj\Release\RefitDemoClient.csproj.CoreCompileInputs.cache
+C:\Users\jmullins\Source\repos\RefitDemoClient\AzureWebjobDemo\obj\Release\RefitDemoClient.csproj.CoreCompileInputs.cache
